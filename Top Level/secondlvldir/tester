@@ -2,5 +2,5 @@
 
 void main() {
     printf("hello world");
-    int x = 1 + 24;
+    int x = 1 + 20;
 }
